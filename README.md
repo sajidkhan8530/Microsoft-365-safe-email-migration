@@ -140,7 +140,7 @@ You'll be prompted to sign in with your Microsoft 365 admin credentials.
 
 ```powershell
 # Clone the repository
-git clone https://github.com/yourusername/m365-email-migration-tool.git
+git clone https://github.com/sajidkhan8530/m365-email-migration-tool.git
 cd m365-email-migration-tool
 ```
 
@@ -425,8 +425,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact & Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/m365-email-migration-tool/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/m365-email-migration-tool/discussions)
+- **Issues**: [GitHub Issues](https://github.com/sajidkhan8530/m365-email-migration-tool/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/sajidkhan8530/m365-email-migration-tool/discussions)
 
 ---
 
