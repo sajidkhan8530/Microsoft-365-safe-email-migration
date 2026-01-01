@@ -1,0 +1,46 @@
+# PowerShell
+*.ps1~
+*.psm1~
+
+# Logs
+*.log
+logs/
+
+# Temp files
+*.tmp
+*.temp
+~$*
+
+# Test files
+test_*.ps1
+temp_*.ps1
+
+# User-specific files
+users.csv
+migration_results.csv
+*.bak
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Credentials (NEVER commit these)
+*credentials*.ps1
+*password*.txt
+*secret*.txt
+.env
+
+# Backup files
+*.backup
+backup/
